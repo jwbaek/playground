@@ -1,5 +1,3 @@
-What an
-uninteresting
-document!
-
-Hello there!
+What a
+cool
+document?
